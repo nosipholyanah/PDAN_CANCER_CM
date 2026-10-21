@@ -2,7 +2,7 @@
 # Postgraduate Diploma in Data Analytics- Programming for Data Analytics
 # Formative Assignment Part 1- Classification and Model Improvement
 
-This repository has my formative assessment part 1 for Programming in Data Analytics as a student pursuing a Postgraduate Diploma in Data Analytics. 
+This repository has my formative assessment part 2 for Programming in Data Analytics as a student pursuing a Postgraduate Diploma in Data Analytics. 
 
 # Files 
 - ST10547352_PDAN8411_Part_2_.pdf- Analysis Written Report
