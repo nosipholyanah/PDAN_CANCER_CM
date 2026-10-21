@@ -3,7 +3,6 @@
 # Formative Assignment Part 1- Classification and Model Improvement
 
 This repository has my formative assessment part 1 for Programming in Data Analytics as a student pursuing a Postgraduate Diploma in Data Analytics. 
-The analysis uses a beast cancer dataset found on Kaggle by UCI to investigate how different variables including age, sex, smoking status, number of children, BMI and geographic region can be used to predict the medical charges for different individuals
 
 # Files 
 - ST10547352_PDAN8411_Part_2_.pdf- Analysis Written Report
